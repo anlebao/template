@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Niconne';
+  font-style: normal;
+  font-weight: 400;
+  src: url(http://fonts.gstatic.com/s/niconne/v6/1Y2V-wun2k3RwNuuIBcx0Q.eot);
+  src: local('Niconne'), local('Niconne-Regular'), url(http://fonts.gstatic.com/s/niconne/v6/1Y2V-wun2k3RwNuuIBcx0Q.eot) format('embedded-opentype'), url(http://fonts.gstatic.com/s/niconne/v6/Pt5YCk9yiMzehxqMoOcZoQ.woff) format('woff');
+}
+@font-face {
+  font-family: 'Norican';
+  font-style: normal;
+  font-weight: 400;
+  src: url(http://fonts.gstatic.com/s/norican/v4/AELveyfTkBeWmTrYG9zZ2w.eot);
+  src: local('Norican Regular'), local('Norican-Regular'), url(http://fonts.gstatic.com/s/norican/v4/AELveyfTkBeWmTrYG9zZ2w.eot) format('embedded-opentype'), url(http://fonts.gstatic.com/s/norican/v4/WG5BKl7e-3DIN75Tz4bREg.woff) format('woff');
+}
